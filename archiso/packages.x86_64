@@ -71,6 +71,7 @@ mkinitcpio-nfs-utils
 modemmanager
 mtools
 nano
+neovim
 nbd
 ndisc6
 nfs-utils
